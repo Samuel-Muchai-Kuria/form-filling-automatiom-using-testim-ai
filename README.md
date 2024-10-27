@@ -1,6 +1,3 @@
-# form-filling-automatiom-using-testim-ai
-
-
 # Project Title: Automated Form Testing on Testim AI with Vercel Integration
 
 ## Overview
